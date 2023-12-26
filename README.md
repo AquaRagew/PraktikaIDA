@@ -1,5 +1,9 @@
 # PraktikaIDA
 
+# 5.Discord 3
+![image](https://github.com/AquaRagew/PraktikaIDA/assets/153187186/775ca874-3d0f-42f7-9455-777a2e38c3bb)
+
+
 # 4.Discord 2
 ![image](https://github.com/AquaRagew/PraktikaIDA/assets/153187186/1854f8a8-5116-4852-9b11-721d701eaf16)
 
